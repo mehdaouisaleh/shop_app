@@ -2,7 +2,7 @@
 
 A Flutter Shopping Mobile Application.
 
-## App Overview
+## Project Overview
 
 This project was made using Flutter Framework and Googles' Firebase Database API.
 
